@@ -7,3 +7,8 @@ The following code creates a wallet with two Bitcoin and one Litecoin account fr
 
 passphrase, which is the masterkey.
 
+
+
+#installation
+
+pip install bitcoinlib
