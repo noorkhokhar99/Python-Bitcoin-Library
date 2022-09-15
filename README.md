@@ -1,5 +1,5 @@
 
-#Python-Bitcoin-Library
+# Python-Bitcoin-Library
 
 Wallet from passphrase with accounts and multiple currencies
 
@@ -9,6 +9,6 @@ passphrase, which is the masterkey.
 
 
 
-#installation
+# installation
 
 pip install bitcoinlib
